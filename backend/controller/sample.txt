@@ -1,0 +1,63 @@
+        const user = {
+                        "id": 1825085,
+                        "name": "Sanket Dube",
+                        "username": "sanket@lightning-erp.com",
+                        "email": "sanket@lightning-erp.com",
+                        "customFields": [
+                            {
+                            "field_id": 41,
+                            "value": "Grzegorz Zajaczkowski CFPM",
+                            "timestamp_modified": "2025-07-29 22:39:04",
+                            "timestamp_created": "2025-07-29 22:39:04",
+                            "title": "Organization Name",
+                            "type": "text"
+                            },
+                            {
+                            "field_id": 37,
+                            "value": "EMEA",
+                            "timestamp_modified": "2025-07-29 22:39:04",
+                            "timestamp_created": "2025-07-29 22:39:04",
+                            "title": "Region",
+                            "type": "select"
+                            },
+                            {
+                            "field_id": 20,
+                            "value": "Dube",
+                            "timestamp_modified": "2025-07-29 22:39:04",
+                            "timestamp_created": "2025-07-29 22:39:04",
+                            "title": "Last Name",
+                            "type": "text"
+                            },
+                            {
+                            "field_id": 19,
+                            "value": "Sanket",
+                            "timestamp_modified": "2025-07-29 22:39:04",
+                            "timestamp_created": "2025-07-29 22:39:04",
+                            "title": "First Name",
+                            "type": "text"
+                            }
+                        ],
+                    };
+
+        const course = {
+                        "id": 13586,
+                        "title": "WMS: Using Labor Excel Import Export Part 2 enhancement",
+                        "customFields": [
+                            {
+                            "field_id": 34,
+                            "value": "elearning",
+                            "timestamp_modified": "2025-07-07 05:43:10",
+                            "timestamp_created": "2025-07-07 05:43:10",
+                            "title": "Course Type",
+                            "type": "select"
+                            },
+                            {
+                            "field_id": 32,
+                            "value": "WMS",
+                            "timestamp_modified": "2025-07-07 05:43:10",
+                            "timestamp_created": "2025-07-07 05:43:10",
+                            "title": "Product Line",
+                            "type": "select"
+                            },
+                        ],
+                    };   
